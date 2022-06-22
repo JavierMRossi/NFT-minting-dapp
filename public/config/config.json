@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x832367Efe807E086789a6F5b7efF628c78191c37",
+  "SCAN_LINK": "https://polygonscan.com/address/0x832367efe807e086789a6f5b7eff628c78191c37",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Neetwork NFT",
+  "SYMBOL": "CN",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/neetworknft",
+  "SHOW_BACKGROUND": true
+}
